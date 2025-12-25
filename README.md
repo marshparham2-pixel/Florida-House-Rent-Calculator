@@ -65,23 +65,8 @@ Rent Breakdown:
 - Tax 5%: +$53.1
 => Total Cost (final estimated monthly rent): $1115.1
 
-How to Run
 
-Clone the repository:
-
-git clone https://github.com/yourusername/Florida-Rent-Calculator.git
-
-
-Compile the C++ file using a C++ compiler, for example:
-
-g++ -o rent_calculator main.cpp
-
-
-Run the program:
-
-./rent_calculator
-
-Why This Project
+Why This Project : 
 
 This project demonstrates:
 
@@ -95,7 +80,7 @@ Structuring code for readability
 
 Beginner-friendly project suitable for GitHub portfolio
 
-Notes
+Notes :
 The program can be easily extended to support multiple houses, more cities, or additional amenities.
 
 The rent breakdown helps users understand exactly how the final cost is calculated.
